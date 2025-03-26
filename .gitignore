@@ -1,6 +1,4 @@
-AI_implemented/venv/  # Or whatever your venv directory is named.
 __pycache__/
 *.pyc
 *.log
 **AI_implemented/venv/
-AI_implemented/venv/
